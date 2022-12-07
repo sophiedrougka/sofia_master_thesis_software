@@ -1,0 +1,11 @@
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1262, 'packetbb': 285, 'RSL': 1514, 'TCP': 83, 'ARP': 42, 'IPv4': 1210, 'UDP': 1514, 'ICMP': 590}}
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1262, 'packetbb': 285, 'RSL': 1514, 'TCP': 83, 'ARP': 42, 'IPv4': 1210, 'UDP': 1514, 'ICMP': 590}}
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1262, 'packetbb': 285, 'RSL': 1514, 'TCP': 83, 'ARP': 42, 'IPv4': 1210, 'UDP': 1514, 'ICMP': 590}}
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1262, 'packetbb': 285, 'RSL': 1514, 'TCP': 83, 'ARP': 42, 'IPv4': 1210, 'UDP': 1514, 'ICMP': 590}}
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1262, 'packetbb': 285, 'RSL': 1514, 'TCP': 83, 'ARP': 42, 'IPv4': 1210, 'UDP': 1514, 'ICMP': 590}}
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1262, 'packetbb': 285, 'RSL': 1514, 'TCP': 83, 'ARP': 42, 'IPv4': 1210, 'UDP': 1514, 'ICMP': 590}}
+{'STATIC_MULTI_1_3_6TO7': {}}
+{'STATIC_MULTI_1_3_6TO7': {}}
+{'STATIC_MULTI_1_3_6TO7': {}}
+{'STATIC_MULTI_1_3_6TO7': {}}
+{'STATIC_MULTI_1_3_6TO7': {}}
