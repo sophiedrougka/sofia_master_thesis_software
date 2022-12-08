@@ -388,10 +388,12 @@ def mobility_2_throughput_tcp_convoy_line():
     plt.grid()
     plt.show()
 
-
+# This function plots the diagram of throughput for the TCP SYN flood attack
+# in the mobile network where the nodes move for two minutes
+# bar style diagram
 def mobility_2_throughput_tcp_convoy_bar():
-    x_axis_throughput = ['1', '2', '3', '4']
-    throughput = [12907.597, 17977.170, 24266.882, 25294.338]
+    x_axis_throughput = ['1', '2', '3', '4'] # The number of malicious nodes 1,2,3 &4
+    throughput = [12907.597, 17977.170, 24266.882, 25294.338] # The calculated throughput
     plt.bar(x_axis_throughput, throughput, width=0.4, color='green')
     plt.legend(["Convoy Mode"], loc="upper left")
     plt.xlabel('Number Of Malicious Nodes')
