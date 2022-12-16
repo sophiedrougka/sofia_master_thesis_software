@@ -26,3 +26,4 @@
 {'STATIC_MULTI_1_3_6TO7': {'TAPA': 1457, 'packetbb': 805, 'RSL': 16, 'TCP': 205, 'ARP': 51, 'IPv4': 81, 'UDP': 26, 'ICMP': 26}}
 {'STATIC_MULTI_1_3_6TO7': {'TAPA': 1457, 'packetbb': 805, 'RSL': 16, 'TCP': 205, 'ARP': 51, 'IPv4': 81, 'UDP': 26, 'ICMP': 26}}
 {'STATIC_MULTI_1_3_6TO7': {'TAPA': 1457, 'packetbb': 805, 'RSL': 16, 'TCP': 205, 'ARP': 51, 'IPv4': 81, 'UDP': 26, 'ICMP': 26}}
+{'STATIC_MULTI_1_3_6TO7': {'TAPA': 1457, 'packetbb': 805, 'RSL': 16, 'TCP': 205, 'ARP': 51, 'IPv4': 81, 'UDP': 26, 'ICMP': 26}}
